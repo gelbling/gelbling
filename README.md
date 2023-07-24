@@ -2,7 +2,7 @@
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gelbling&show_icons=true&theme=dark&rank_icon=github&include_all_commits=true&hide=contrib,issues,prs)
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gelbling)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gelbling)]()
 
 <!--
 **gelbling/gelbling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
