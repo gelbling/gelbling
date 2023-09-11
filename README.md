@@ -1,4 +1,4 @@
-### 👋
+### 👋 👋
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gelbling&show_icons=true&theme=dark&hide=,issues,prs&rank_icon=github&include_all_commits=true&show=discussions_started,discussions_answered&text_bold=false&hide_title=true)
 
