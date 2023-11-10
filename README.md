@@ -1,7 +1,7 @@
 # 👋
 
 ## 🔭 I’m currently working on
-  ### tuchbase.com
+  **tuchbase.com**
 ## 👯 I’m looking to collaborate on ...
   ### impactful *AI, ML, data, platforms, apps, networking* projects
 ## 📫 How to reach me: ...
