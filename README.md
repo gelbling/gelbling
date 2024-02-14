@@ -1,4 +1,4 @@
-# 👋
+# 👋 hi
 
 ## University of Notre Dame CS BS '24
 
