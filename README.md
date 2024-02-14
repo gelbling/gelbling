@@ -1,6 +1,6 @@
 # 👋 hi
 
-## University of Notre Dame CS BS '24
+## 🌱 University of Notre Dame CS BS '24
 
 ## 🔭 Learn more about me: <https://gelbling.github.io/>
 
