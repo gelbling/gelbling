@@ -1,6 +1,7 @@
 # 👋 hi
 
 ## 🌱 University of Notre Dame CS BS '24
+## Incoming Amazon SDE Intern
 
 ## 🔭 Learn more about me: <https://gelbling.github.io/>
 
