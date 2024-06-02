@@ -1,6 +1,6 @@
 # 👋 hi
 
-## Incoming Amazon SDE Intern
+## 💼 Software Development Engineer Intern @ Amazon 
 ## 🌱 University of Notre Dame CS BS '24
 
 ## 🔭 Learn more about me: <https://gelbling.github.io/>
