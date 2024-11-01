@@ -1,6 +1,8 @@
 # 👋 hi
 
-## 💼 Software Development Engineer Intern @ Amazon Alexa Knowledge
+## 💼 Prev Software Development Engineer Intern @ Amazon Alexa Knowledge
+## 💼 Prev Software Engineer Intern @ ASML
+
 ## 🌱 University of Notre Dame CS BS '24
 
 ## 🔭 Learn more about me: <https://gelbling.github.io/>
